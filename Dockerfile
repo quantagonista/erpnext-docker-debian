@@ -30,7 +30,7 @@ ENV benchPath=bench-repo \
     benchRepo="https://github.com/frappe/bench" \
     benchBranch=master \
     frappeRepo="https://github.com/frappe/frappe" \
-    erpnextRepo="https://github.com/frappe/erpnext" \
+    erpnextRepo="https://github.com/quantagonista/erpnext" \
     siteName=site1.local
 
 ###############################################
